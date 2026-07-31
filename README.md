@@ -26,3 +26,10 @@ Apache-2.0 - free for personal & commercial use.
 
 ---
 ⭐ Star this repo if helpful! Support by grabbing the premium bundle.
+
+
+## ☕ Support
+
+If you find this project useful, consider supporting me on Ko-fi: [ko-fi.com/liutingqiu](https://ko-fi.com/liutingqiu)
+
+Also check out my digital products: [TianqiDigitalStudio on Payhip](https://payhip.com/TianqiDigitalStudio)
